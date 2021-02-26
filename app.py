@@ -9,7 +9,6 @@ def hello(height):
         for _ in range(0, i + 1):
             print("* ",end="")
         print("\r")
-    #click.echo(f'Hello {name}!')
 
 if __name__ == '__main__':
     #pylint: disable=no-value-for-parameter
